@@ -1,0 +1,57 @@
+.container
+{
+    width: 500px;
+    height: 300px;
+    background-color: violet;
+    border-radius: 10px;
+    box-shadow: 3px 5px;
+
+}
+#startbtn
+{
+    width: 100px;
+    height: 40px;
+    background-color: green;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: x-large;
+    box-shadow: 3px 3px;
+
+    
+}
+#stopbtn
+{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    border-radius: 10px;
+    border-color: transparent;
+    box-shadow: 3px 3px;
+    font-size: x-large;
+
+    
+}
+#resetbtn
+{
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 10px;
+    border-color: transparent;
+    box-shadow: 3px 3px;
+    font-size: x-large;
+
+    
+}
+.DisplayTimer
+{
+    text-shadow: 3px;
+    margin-top: 150px;
+    padding-top: 50px;
+}
+#h1
+{
+    font-size: xx-large;
+}
+
+
